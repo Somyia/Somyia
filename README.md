@@ -1,5 +1,12 @@
 ### Hi there 👋
 🔭🔭 This is Mst Somyia Akter. I am From Cumilla, Bangladesh. I have complited MSc in Information and Communication Technology in Cumilla University.
+
+🔭 I’m currently working on MERN Stack Web Development. I am familiar with ReactJS, NodeJs, ExpressJs, MongoDB, React-Bootstrap, Material UI...
+
+🌱 I’m currently learning Redux ans React-Redux.
+
+🌱 I’m available on LinkedIn [Link text Here](https://link-url-here.org)
+
 <!--
 **Somyia/Somyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
