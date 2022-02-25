@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Redux ans React-Redux.
 
-🌱 I’m available on [gmail](https://link-url-here.org) , [LinkedIn](https://www.linkedin.com/in/somyia-akter/)
+🌱 I’m available on [gmail](mailto:somyiaakter93@gmail.com) and  , [LinkedIn](https://www.linkedin.com/in/somyia-akter/)
 
 <!--
 **Somyia/Somyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
