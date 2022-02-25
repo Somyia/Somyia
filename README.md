@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Mst Somyia Akter. I am From Cumilla, Bangladesh. I have 
+🔭🔭 This is Mst Somyia Akter. I am From Cumilla, Bangladesh. I have complited MSc in Information and Communication Technology in Cumilla University.
 <!--
 **Somyia/Somyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
